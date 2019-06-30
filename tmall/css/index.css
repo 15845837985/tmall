@@ -57,3 +57,11 @@
     color: #ff0036;
     text-decoration: underline;
 }
+.list-arrow:hover .arrow{
+    transform: rotate(180deg);
+    transform-origin: 50% 25%;
+}
+.sub-list .list-tb-baby:hover{
+    color: #ff0036;
+    text-decoration: underline;
+}
